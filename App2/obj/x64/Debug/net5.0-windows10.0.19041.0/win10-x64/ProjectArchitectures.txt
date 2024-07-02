@@ -1,0 +1,1 @@
+D:\C#\CopyUI\App2\App2.csproj;x64
